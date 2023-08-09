@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kidosports-development",
+  "private_key_id": "53b0c68f2f1fc22124fc13a542b1f0cb6a675dd4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDY2JGXZif28Est\nZjxPNmJGmvgyYZUr4aWN3Lx9eMYRH5DFveKemEdUEny2RugLqICxB4z6Svb8oGdL\nXWwk3M/IsMD7SndXd2CfhG/lKPXcIXrKYupLCMnL4mhJt5EI5RPs6zt08Tbhxyf6\nXhokni7Il5XRhFtHZeZAUPq2zraROhMLk04BnH8b9Kcxd8XO4YUA4SdyXer0zRGW\nvILj39Y/e37fQ98GzjNULuKln9KAw1OpzNb3jPSkDCt4aW2O1+55l9F/mFef8A7W\n2plrNVBAl25ll0ppf/rhCd/7V/kJy1MV9kAXUNYKTUD0IyWY1tOVtH39SbR/ZP24\noxdFg1qrAgMBAAECggEAEYoq9JkRwHqdShXL6QhYGKfuTXzxKPR+hKQHJwr+0mHA\nPw5l5zggBN/d8Ix5tn+xsSAQOiqYIcUDteffmHe34t7RLUJPtuZ0DVMUDfArOtwG\nZ5pqoxkZ4YD1uIi9lX+aBf7c90+PheGrDShRawbUd+sy9hiDnZnTbv5d2S2NPN/U\nfCJ3neeHgM1fUPJL8qyCYYz4XgleGNBz+ohL+t8dt0lo87Gl5OtYlMs23o5nOl1v\nB1OSISprjr7gtXofaIlUBPtNh22A8vFj7oRP/Q00QKH0iCht2Xeqjj20KbEHGaXV\nEn2s/77N4ARbGLvJYn+f2sDw3Bjbpe5j+j3bIbvu+QKBgQD6sghfax0CPQEEpWCO\nDfLIO0Tviwo5Ed+CENkJza8X1/FGGaFAJsJuHQ3feAZFUGr5IdmQpkSMyl4SgP31\nv6pL6RXCzM4/TO/5IktKcuDMaBztWE8Rrd4LsQBNhjl93GaFgyPczz1EeLJ9a+hn\niQ0GS47tiKL8m74UPA7/rzcLtQKBgQDdby4gEe1h6FOWQ/XBiMtWDN+XO7UL8ZUZ\nKHofKEupqtqeIi76s10SPE5gJx2LzK9oEIqmh4mQ5CN5rgXdlCEA9j7PKHozWLsU\nmVvy6AvR2KljcWUZr4jSKwz7O9WqbF7swUqpVYLm3MkF1XSLDPyjHJ3U+zVjMaSZ\nMYogM/iI3wKBgQDqbTjvIVbLFQiys4MK03hITUQ1TCuPGmuLUP3j8PbesQvppWXo\ne1YtafXjFnWms4CU31Z3sUNA9KvrWbwh5cz1l0zGEIZ9IxD0Q2FsiOg1vNXwDDhE\nK/YLsMS7udxhGYy1JOCQRyrfsI4YQqPczYfkbxuEe9UNqwWgHllYNxyeUQKBgQCs\nVz7gCPPnksmTlzsrsMsJIyXWb8r+C71Ogllh7JvO5sIV92b3Cihy6+rYHTl6uAkB\nBnbTG4Qu99DAgHfiN8rkE8NYuhk542JfquiMipvAbE+RrQzRy/PCF22YD77BUG0k\n+V+hoYMrKUVvu+1j1+y9CqWwwP+RP27rKEpnu+tAowKBgDrkGz/h5jP0kYNuBBDM\nlN78uBhDxuKDiUs+9XXMAvdSzR0FjxTDEqIGe+wLx3fo+b1cF38K1FXqrB8rwaMs\nbkJTvTnXvkChQqNHC8NdqBzaN4Hrid7U83U/7Tdo+Vi73A/W0GiRNRdaZXQzWqcx\n0imaMj6sym8CsQTXT9K4WXdC\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2h7iv@kidosports-development.iam.gserviceaccount.com",
+  "client_id": "103663731161202101578",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2h7iv%40kidosports-development.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
