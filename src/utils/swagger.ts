@@ -31,8 +31,8 @@ export function useSwagger(app: express.Application) {
       },
     },
     info: {
-      title: "Kido Sport Backend API",
-      description: "Kido Sport API",
+      title: "Pinomaker  Backend API",
+      description: "Pinomaker Sport API",
       version: "1.0.0",
     },
   });
